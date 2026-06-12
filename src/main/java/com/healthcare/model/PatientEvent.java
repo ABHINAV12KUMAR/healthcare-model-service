@@ -8,5 +8,6 @@ public class PatientEvent {
     private Long patientId;
     private String name;
     private String disease;
+    private String email;
     private String eventType; // CREATE, UPDATE, DELETE
 }
