@@ -12,4 +12,5 @@ public class Patient {
     private Long id;
     private String name;
     private String disease;
+    private String email;
 }
