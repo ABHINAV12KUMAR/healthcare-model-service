@@ -10,6 +10,5 @@ public class PatientDTO {
     private String name;
     //@NotBlank(message = "Disease is required")
     private String disease;
-
     private String email;
 }
